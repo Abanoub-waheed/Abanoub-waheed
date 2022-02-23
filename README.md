@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abanoub-waheed
 - 👀 I’m interested in Python, automation, GIS, and Data visualization
 - 🌱 I’m currently learning GIS, Web technolgies and Python 
-- 💞️ I’m looking for improving my skills and wideing my knowledge
+- 💞️ I’m looking for improving my skills and widening my knowledge
 - 📫 How to reach me @:
 1. Gmail: pr.abanoubwaheed@gmail.com
 2. facebook: abanoub.waheed.5
